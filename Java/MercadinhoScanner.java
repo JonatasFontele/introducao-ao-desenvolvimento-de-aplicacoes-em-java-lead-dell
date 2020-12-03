@@ -5,18 +5,18 @@ import java.util.Scanner;
 public class MercadinhoScanner {
 	
 	public static void main(String args[]) {
-	// Lista de produtos e seus respectivos preços
-		String produtos[] = {"", "Macarrão", "Arroz", "Batata", "Café", "Leite", "Feijão"};
+	// Lista de produtos e seus respectivos preÃ§os
+		String produtos[] = {"", "MacarrÃ£o", "Arroz", "Batata", "CafÃ©", "Leite", "FeijÃ£o"};
 		double precos [] = {0, 1.99, 2.75, 3.80, 4.00, 2.99, 3.50};
 
-		// Objeto para leitura de entrada de dados via teclado.
+		// Objeto para leitura de entrada de dados via teclado
 		Scanner entradaTeclado = new Scanner(System.in);
 
-		//Obter o código do produto de 1 a 6
-		System.out.println("informe o código dos produtos");
+		//Obter o cÃ³digo do produto de 1 a 6
+		System.out.println("informe o cÃ³digo dos produtos");
 		int codigoProduto = entradaTeclado.nextInt();
 
-		//Se o código do produto estiver correto, solicitar a quantidade do produto
+		//Se o cÃ³digo do produto estiver correto, solicitar a quantidade do produto
 		if (codigoProduto > 0 && codigoProduto < produtos.length) {
 				System.out.println("Produto:" + produtos[codigoProduto]);
 
@@ -29,7 +29,7 @@ public class MercadinhoScanner {
 				System.out.println("TOTAL: R$" + total);
 
 		} else {
-			System.out.println("Produto não encontrado");
+			System.out.println("Produto nÃ£o encontrado");
 		}
 		entradaTeclado.close();
 	}
