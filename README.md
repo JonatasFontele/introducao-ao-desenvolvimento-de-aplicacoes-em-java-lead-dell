@@ -12,7 +12,7 @@ O objetivo é qualificar conhecimentos básicos sobre a linguagem Java e atuar c
 > ## Conteúdo Programático
 
 * Entrada de dados em Java
-Estudar o processo de instalação e configuração da plataforma Java a fim de compreender exemplos de procedimento de implementação de entrada de dados em um programa Java.
+** Estudar o processo de instalação e configuração da plataforma Java a fim de compreender exemplos de procedimento de implementação de entrada de dados em um programa Java.
 
 * Exceções
 Estudar os aspectos gerais de exceções, acompanhar a sua aplicação em Java e realizar a criação de exceções personalizadas.rn
