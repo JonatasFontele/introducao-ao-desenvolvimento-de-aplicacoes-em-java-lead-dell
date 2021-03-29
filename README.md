@@ -9,6 +9,13 @@
 
 O objetivo é qualificar conhecimentos básicos sobre a linguagem Java e atuar com maior autonomia utilizando os mecanismos técnicos da programação em Java.
 
+> ## Programinhas
+
+* MercadinhoScanner.java
+* MercadinhoUI.java
+* ExemploMapa.java
+* Hotel
+
 > ## Conteúdo Programático
 
 * Entrada de dados em Java
