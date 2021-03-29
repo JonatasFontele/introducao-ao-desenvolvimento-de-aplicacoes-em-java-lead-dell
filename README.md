@@ -11,10 +11,10 @@ O objetivo é qualificar conhecimentos básicos sobre a linguagem Java e atuar c
 
 > ## Programinhas
 
-* MercadinhoScanner.java
-* MercadinhoUI.java
-* ExemploMapa.java
-* Hotel
+* Java/MercadinhoScanner.java
+* Java/MercadinhoUI.java
+* Java/ExemploMapa.java
+* Java/Hotel
 
 > ## Conteúdo Programático
 
