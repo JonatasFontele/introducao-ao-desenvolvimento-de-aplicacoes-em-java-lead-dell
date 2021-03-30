@@ -5,7 +5,7 @@
 
 [![alt text](http://leadfortaleza.com.br/dal/wp-content/uploads/2017/02/Prancheta-109-c%C3%B3pia-11.png "Link para o curso")](http://leadfortaleza.com.br/dal/?cp_cursos=/introducao-ao-desenvolvimento-de-apicacoes-em-java/)
 
-## [**Curso de Introdução ao Desenvolvimento de Aplicações em Java da Dell LEAD**](http://leadfortaleza.com.br/dal/?cp_cursos=/introducao-ao-desenvolvimento-de-apicacoes-em-java/)
+## [**Curso de Introdução ao Desenvolvimento de Aplicações em Java da ![Dell Badge](https://img.shields.io/badge/Dell-007DB8?style=plastic&logo=Dell&logoColor=white) LEAD**](http://leadfortaleza.com.br/dal/?cp_cursos=/introducao-ao-desenvolvimento-de-apicacoes-em-java/)
 
 O objetivo é qualificar conhecimentos básicos sobre a linguagem Java e atuar com maior autonomia utilizando os mecanismos técnicos da programação em Java.
 
