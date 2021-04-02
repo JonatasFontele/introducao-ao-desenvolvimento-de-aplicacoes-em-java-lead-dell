@@ -11,10 +11,10 @@ O objetivo é qualificar conhecimentos básicos sobre a linguagem Java e atuar c
 
 > ## Programinhas
 
-* Java/MercadinhoScanner.java
-* Java/MercadinhoUI.java
-* Java/ExemploMapa.java
-* Java/Hotel
+* Java/[MercadinhoScanner.java](https://github.com/JonatasFontele/introducao-ao-desenvolvimento-de-aplicacoes-em-java-lead-dell/blob/main/Java/MercadinhoScanner.java)
+* Java/[MercadinhoUI.java](https://github.com/JonatasFontele/introducao-ao-desenvolvimento-de-aplicacoes-em-java-lead-dell/blob/main/Java/MercadinhoUI.java)
+* Java/[ExemploMapa.java](https://github.com/JonatasFontele/introducao-ao-desenvolvimento-de-aplicacoes-em-java-lead-dell/blob/main/Java/ExemploMapa.java)
+* Java/[Hotel](https://github.com/JonatasFontele/introducao-ao-desenvolvimento-de-aplicacoes-em-java-lead-dell/tree/main/Java/Hotel)
 
 > ## Conteúdo Programático
 
