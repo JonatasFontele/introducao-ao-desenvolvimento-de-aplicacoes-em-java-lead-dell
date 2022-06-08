@@ -5,7 +5,7 @@
 
 [![alt text](https://cdn.leadfortaleza.com.br/portal/dal/gallery/introducao-desenvolvimento-%20aplica%C3%A7%CE%A3es-java.svg) "Link para o curso")](https://leadfortaleza.com.br/dal/courses/introducao-desenvolvimento-aplicacoes-java)
 
-<img src="https://cdn.leadfortaleza.com.br/portal/dal/gallery/introducao-desenvolvimento-%20aplica%C3%A7%CE%A3es-java.svg" data-canonical-src="https://leadfortaleza.com.br/dal/courses/introducao-desenvolvimento-aplicacoes-java" width="400" height="400" />
+[<img src="https://cdn.leadfortaleza.com.br/portal/dal/gallery/introducao-desenvolvimento-%20aplica%C3%A7%CE%A3es-java.svg" width="400" height="400" /> "Link para o curso")](https://leadfortaleza.com.br/dal/courses/introducao-desenvolvimento-aplicacoes-java)
 
 ## [**Curso de Introdução ao Desenvolvimento de Aplicações em Java da LEAD ![Dell Badge](https://img.shields.io/badge/Dell-007DB8?style=flat-square&logo=Dell&logoColor=white)**](http://leadfortaleza.com.br/dal/?cp_cursos=/introducao-ao-desenvolvimento-de-apicacoes-em-java/)
 
