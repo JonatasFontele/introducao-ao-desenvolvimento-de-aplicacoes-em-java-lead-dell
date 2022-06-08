@@ -5,7 +5,7 @@
 
 [![alt text](https://cdn.leadfortaleza.com.br/portal/dal/gallery/introducao-desenvolvimento-%20aplica%C3%A7%CE%A3es-java.svg) "Link para o curso")](http://leadfortaleza.com.br/dal/?cp_cursos=/introducao-ao-desenvolvimento-de-apicacoes-em-java/)
 
-<img src="[https://camo.githubusercontent.com/...](https://cdn.leadfortaleza.com.br/portal/dal/gallery/introducao-desenvolvimento-%20aplica%C3%A7%CE%A3es-java.svg)" data-canonical-src="[https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png](https://cdn.leadfortaleza.com.br/portal/dal/gallery/introducao-desenvolvimento-%20aplica%C3%A7%CE%A3es-java.svg)" width="200" height="400" />
+<img src="https://cdn.leadfortaleza.com.br/portal/dal/gallery/introducao-desenvolvimento-%20aplica%C3%A7%CE%A3es-java.svg" data-canonical-src="https://cdn.leadfortaleza.com.br/portal/dal/gallery/introducao-desenvolvimento-%20aplica%C3%A7%CE%A3es-java.svg" width="200" height="400" />
 
 ## [**Curso de Introdução ao Desenvolvimento de Aplicações em Java da LEAD ![Dell Badge](https://img.shields.io/badge/Dell-007DB8?style=flat-square&logo=Dell&logoColor=white)**](http://leadfortaleza.com.br/dal/?cp_cursos=/introducao-ao-desenvolvimento-de-apicacoes-em-java/)
 
