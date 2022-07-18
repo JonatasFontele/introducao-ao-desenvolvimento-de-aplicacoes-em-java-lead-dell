@@ -1,5 +1,12 @@
 package br.dell.modelos;
 
+/**
+ * Classe representando as informações de um hóspede
+ *
+ * @author Jonatas Fontele
+ * @version 0.1
+ */
+
 public class Hospede {
 	
 	private long CPF;
@@ -47,9 +54,22 @@ public class Hospede {
 		this.endereco = endereco;
 	}
 	//Constructors
+
+	/**
+	 * Construtor para inicializar o objeto hospede vazio
+	 */
 	public Hospede() {
 		
 	}
+
+	/**
+	 * Construtor para inicializar o objeto hospede a partir de cpf, rg, nome, idade e endereço
+	 * @param CPF
+	 * @param RG
+	 * @param nome do hóspede
+	 * @param idade
+	 * @param endereco residência do hóspede
+	 */
 	public Hospede(long CPF, long RG, String nome, int idade, String endereco) {
 		this.CPF = CPF;
 		this.RG = RG; 

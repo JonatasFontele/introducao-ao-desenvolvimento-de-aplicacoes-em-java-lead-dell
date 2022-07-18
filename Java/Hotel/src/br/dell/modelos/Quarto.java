@@ -1,5 +1,12 @@
 package br.dell.modelos;
 
+/**
+ * Classe representando as informações de um quarto
+ *
+ * @author Jonatas Fontele
+ * @version 0.1
+ */
+
 public class Quarto {
 	
 	private int numero;
@@ -19,6 +26,12 @@ public class Quarto {
 		this.hospede = hospede;
 	}
 	//Constructors
+
+	/**
+	 * Construtor para inicializar o objeto hospede a partir de número e hóspede
+	 * @param numero do quarto
+	 * @param hospede objeto associado ao quarto
+	 */
 	public Quarto(int numero, Hospede hospede) {
 		this.numero = numero;
 		this.hospede = hospede;

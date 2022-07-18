@@ -5,6 +5,14 @@ import java.util.HashMap;
 import java.util.InputMismatchException;
 import java.util.Map;
 
+/**
+ * Classe principal que gera a interface e interação com o usuário
+ * Há um HashMap para armazenar os hóspedes e associar aos quartos
+ *
+ * @author Jonatas Fontele
+ * @version 0.1
+ */
+
 public class Principal {
 
     public static void main(String[] args) {
@@ -23,6 +31,12 @@ public class Principal {
         // A melhor maneira de correlacionar é usando um dicionário (Map) e um quarto só pode ter um hóspede e vice-versa, não importando a ordem da lista.
         Map<Integer, Hospede> listaHospedes = new HashMap<>();
 
+        /**
+         * Tela de entrada, exposição e pesquisa de dados
+         * @exception NumberFormatException se o valor digitado não for numérico
+         * @exception InputMismatchException se o valor digitado não for do tipo esperado
+         * @exception Exception qualquer outro problema não identificado
+         */
         while(true){
             try {
                 int option = JOptionPane.showOptionDialog(null, campos, "Cadastrar hóspede", JOptionPane.DEFAULT_OPTION,
@@ -85,6 +99,12 @@ public class Principal {
 
         }
     }
+
+    /**
+     *
+     * @param nome pertencente ao hóspede
+     * @return retorna verdadeiro se o nome só possui caracteres
+     */
     public static boolean validaNome(String nome) {
         String expression = "^[a-zA-Z\\s]+";
         return nome.matches(expression);
