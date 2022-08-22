@@ -5,7 +5,7 @@
 
 [<img src="https://cdn.leadfortaleza.com.br/portal/dal/gallery/introducao-desenvolvimento-%20aplica%C3%A7%CE%A3es-java.svg" width="700" height="600" />](https://leadfortaleza.com.br/dal/courses/introducao-desenvolvimento-aplicacoes-java)
 
-## [**Curso de Introdução ao Desenvolvimento de Aplicações em Java da LEAD ![Dell Badge](https://img.shields.io/badge/Dell-007DB8?style=flat-square&logo=Dell&logoColor=white)**](http://leadfortaleza.com.br/dal/?cp_cursos=/introducao-ao-desenvolvimento-de-apicacoes-em-java/)
+## [**Curso de Introdução ao Desenvolvimento de Aplicações em Java da LEAD ![Dell Badge](https://img.shields.io/badge/Dell-007DB8?style=flat-square&logo=Dell&logoColor=white)**](https://leadfortaleza.com.br/dal/courses/introducao-desenvolvimento-aplicacoes-java)
 
 O objetivo é qualificar conhecimentos básicos sobre a linguagem Java e atuar com maior autonomia utilizando os mecanismos técnicos da programação em Java.
 
@@ -35,3 +35,27 @@ O objetivo é qualificar conhecimentos básicos sobre a linguagem Java e atuar c
 
 * JavaFX II
   * Conceituar e apresentar as funções da ferramenta Scene Builder, realizando o tratamento e a implementação de eventos.
+
+## [**Curso de Integração de Aplicações e Serviços com Java da LEAD ![Dell Badge](https://img.shields.io/badge/Dell-007DB8?style=flat-square&logo=Dell&logoColor=white)**](https://leadfortaleza.com.br/dal/courses/integracao-aplicacoes-servicos-java)
+
+O objetivo é aprender a criar e editar arquivos em aplicações cliente servidor, além de gerir sistemas com processos independentes e adquirir uma visão sobre Java web e suas novas tecnologias.
+
+> ## Conteúdo Programático
+
+* Revisão dos conceitos de POO e Java
+  * Reconhecer os conceitos de Classe e Objeto para estabelecer a compreensão dos relacionamentos entre objetos.
+
+* Arquivos
+  * Discutir o uso de arquivos e seus tipos, assim como as classes e interfaces em Java usadas para sua manipulação.
+
+* Threads
+  * Compreender o conceito de Thread e seu processo de funcionamento.
+
+* Aplicações em rede (cliente-servidor e ponto a ponto)
+  * Estudar os modelos P2P e cliente-servidor de aplicações para rede, bem como conceituar a interligação de computadores por aplicações.
+
+* Java EE
+  * Estudar sobre servidores de aplicação, servlets e as primeiras aplicações para a Web.
+
+* Novas tecnologias do Java
+  * Conhecer as novas características e funcionalidades de programação funcional e as inovações da Linguagem Java.
