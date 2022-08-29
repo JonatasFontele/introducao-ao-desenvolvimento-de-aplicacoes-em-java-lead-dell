@@ -39,4 +39,13 @@ public class Produto {
         this.path = path;
     }
 
+    @Override
+    public String toString() {
+        return "Produto{" +
+                "nome='" + nome + '\'' +
+                ", preco=" + preco +
+                ", path='" + path + '\'' +
+                '}';
+    }
+
 }

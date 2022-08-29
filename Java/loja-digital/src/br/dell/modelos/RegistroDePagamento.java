@@ -1,5 +1,6 @@
 package br.dell.modelos;
 
+import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.List;
 
@@ -30,12 +31,15 @@ public class RegistroDePagamento {
         return cliente;
     }
 
+    SimpleDateFormat formatter = new SimpleDateFormat("dd/MM/yyyy");
+
     @Override
     public String toString() {
         return "RegistroDePagamento{" +
                 "produtos=" + produtos +
-                ", dataCompra=" + dataCompra +
+                ", dataCompra=" + formatter.format(dataCompra) +
                 ", cliente=" + cliente +
                 '}';
     }
+
 }
