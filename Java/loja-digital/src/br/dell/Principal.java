@@ -24,9 +24,9 @@ public class Principal {
         lista1.add(produto3);
 
         ArrayList<Produto> lista2 = new ArrayList<>();
-        lista2.add(produto3);
         lista2.add(produto4);
         lista2.add(produto5);
+        lista2.add(produto6);
 
         RegistroDePagamento registroFulano = new RegistroDePagamento(lista1, new Date(), fulano);
         RegistroDePagamento registroSicrano = new RegistroDePagamento(lista2, new Date(), sicrano);
