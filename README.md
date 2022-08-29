@@ -42,6 +42,8 @@ O objetivo é aprender a criar e editar arquivos em aplicações cliente servido
 
 > ## Programinhas
 
+* Java/[loja-digital]
+
 > ## Conteúdo Programático
 
 * Revisão dos conceitos de POO e Java
