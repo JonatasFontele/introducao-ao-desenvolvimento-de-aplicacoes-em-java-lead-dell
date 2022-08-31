@@ -42,7 +42,7 @@ O objetivo é aprender a criar e editar arquivos em aplicações cliente servido
 
 > ## Programinhas
 
-* Java/[loja-digital]
+* Java/[loja-digital](https://github.com/JonatasFontele/introducao-ao-desenvolvimento-de-aplicacoes-em-java-lead-dell/tree/main/Java/loja-digital/src/br/dell)
 
 > ## Conteúdo Programático
 
